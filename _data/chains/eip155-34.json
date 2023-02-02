@@ -1,14 +1,9 @@
 {
   "name": "Dithereum Testnet",
   "chain": "DTH",
-  "network": "testnet",
   "icon": "dithereum",
-  "rpc": [
-    "https://node-testnet.dithereum.io"
-  ],
-  "faucets": [
-	"https://faucet.dithereum.org"
-  ],
+  "rpc": ["https://node-testnet.dithereum.io"],
+  "faucets": ["https://faucet.dithereum.org"],
   "nativeCurrency": {
     "name": "Dither",
     "symbol": "DTH",

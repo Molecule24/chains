@@ -1,10 +1,7 @@
 {
   "name": "Evrice Network",
   "chain": "EVC",
-  "network": "Evrice",
-  "rpc": [
-    "https://meta.evrice.com"
-  ],
+  "rpc": ["https://meta.evrice.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Evrice",

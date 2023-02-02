@@ -1,7 +1,6 @@
 {
   "name": "Pixie Chain Mainnet",
   "chain": "PixieChain",
-  "network": "mainnet",
   "rpc": [
     "https://http-mainnet.chain.pixie.xyz",
     "wss://ws-mainnet.chain.pixie.xyz"
@@ -16,9 +15,11 @@
   "shortName": "pixie-chain",
   "chainId": 6626,
   "networkId": 6626,
-  "explorers": [{
-    "name": "blockscout",
-    "url": "https://scan.chain.pixie.xyz",
-    "standard": "none"
-  }]
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.chain.pixie.xyz",
+      "standard": "none"
+    }
+  ]
 }

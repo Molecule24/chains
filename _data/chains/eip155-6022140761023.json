@@ -1,10 +1,7 @@
 {
   "name": "Molereum Network",
   "chain": "ETH",
-  "network": "molereum",
-  "rpc": [
-    "https://molereum.jdubedition.com"
-  ],
+  "rpc": ["https://molereum.jdubedition.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Molereum Ether",

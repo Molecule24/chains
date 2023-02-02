@@ -1,10 +1,9 @@
 {
   "name": "Alaya Mainnet",
   "chain": "Alaya",
-  "network": "mainnet",
   "rpc": [
     "https://openapi.alaya.network/rpc",
-	"wss://openapi.alaya.network/ws"
+    "wss://openapi.alaya.network/ws"
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -20,7 +19,7 @@
   "explorers": [
     {
       "name": "alaya explorer",
-      "url": "https://scan.alaya.network/",
+      "url": "https://scan.alaya.network",
       "standard": "none"
     }
   ]

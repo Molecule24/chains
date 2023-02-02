@@ -1,13 +1,8 @@
 {
   "name": "Joys Digital TestNet",
   "chain": "TOYS",
-  "network": "testnet",
-  "rpc": [
-    "https://toys.joys.cash/"
-  ],
-  "faucets": [
-    "https://faucet.joys.digital/"
-  ],
+  "rpc": ["https://toys.joys.cash/"],
+  "faucets": ["https://faucet.joys.digital/"],
   "nativeCurrency": {
     "name": "TOYS",
     "symbol": "TOYS",

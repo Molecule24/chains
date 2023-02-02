@@ -1,10 +1,7 @@
 {
   "name": "CoinEx Smart Chain Testnet",
   "chain": "CSC",
-  "network": "testnet",
-  "rpc": [
-    "https://testnet-rpc.coinex.net/"
-  ],
+  "rpc": ["https://testnet-rpc.coinex.net/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "CoinEx Chain Test Native Token",
@@ -15,9 +12,11 @@
   "shortName": "tcet",
   "chainId": 53,
   "networkId": 53,
-  "explorers": [{
-  "name": "coinexscan",
-  "url": "https://testnet.coinex.net/",
-  "standard": "none"
-  }]
+  "explorers": [
+    {
+      "name": "coinexscan",
+      "url": "https://testnet.coinex.net",
+      "standard": "none"
+    }
+  ]
 }

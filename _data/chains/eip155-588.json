@@ -1,7 +1,6 @@
 {
   "name": "Metis Stardust Testnet",
   "chain": "ETH",
-  "network": "rinkeby",
   "rpc": ["https://stardust.metis.io/?owner=588"],
   "faucets": [],
   "nativeCurrency": {
@@ -16,7 +15,7 @@
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://stardust-explorer.metis.io/",
+      "url": "https://stardust-explorer.metis.io",
       "standard": "EIP3091"
     }
   ],
@@ -24,5 +23,6 @@
     "type": "L2",
     "chain": "eip155-4",
     "bridges": [{ "url": "https://bridge.metis.io" }]
-  }
+  },
+  "status": "deprecated"
 }

@@ -1,11 +1,7 @@
 {
   "name": "Moonbeam",
   "chain": "MOON",
-  "network": "moonbeam",
-  "rpc": [
-    "https://rpc.api.moonbeam.network",
-    "wss://wss.api.moonbeam.network"
-  ],
+  "rpc": ["https://rpc.api.moonbeam.network", "wss://wss.api.moonbeam.network"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Glimmer",
@@ -15,5 +11,12 @@
   "infoURL": "https://moonbeam.network/networks/moonbeam/",
   "shortName": "mbeam",
   "chainId": 1284,
-  "networkId": 1284
+  "networkId": 1284,
+  "explorers": [
+    {
+      "name": "moonscan",
+      "url": "https://moonbeam.moonscan.io",
+      "standard": "none"
+    }
+  ]
 }

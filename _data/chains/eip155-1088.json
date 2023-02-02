@@ -1,7 +1,6 @@
 {
   "name": "Metis Andromeda Mainnet",
   "chain": "ETH",
-  "network": "mainnet",
   "rpc": ["https://andromeda.metis.io/?owner=1088"],
   "faucets": [],
   "nativeCurrency": {
@@ -16,7 +15,7 @@
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://andromeda-explorer.metis.io/",
+      "url": "https://andromeda-explorer.metis.io",
       "standard": "EIP3091"
     }
   ],

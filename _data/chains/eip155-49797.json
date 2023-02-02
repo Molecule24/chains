@@ -1,10 +1,7 @@
 {
   "name": "Energi Testnet",
   "chain": "NRG",
-  "network": "testnet",
-  "rpc": [
-    "https://nodeapi.test.energi.network"
-  ],
+  "rpc": ["https://nodeapi.test.energi.network"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Energi",

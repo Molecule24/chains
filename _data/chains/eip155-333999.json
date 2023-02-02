@@ -1,14 +1,9 @@
 {
   "name": "Polis Mainnet",
   "chain": "Olympus",
-  "network": "mainnet",
   "icon": "polis",
-  "rpc": [
-    "https://rpc.polis.tech"
-  ],
-  "faucets": [
-    "https://faucet.polis.tech"
-  ],
+  "rpc": ["https://rpc.polis.tech"],
+  "faucets": ["https://faucet.polis.tech"],
   "nativeCurrency": {
     "name": "Polis",
     "symbol": "POLIS",

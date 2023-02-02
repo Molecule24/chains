@@ -1,10 +1,7 @@
 {
   "name": "Ecoball Testnet Espuma",
   "chain": "ECO",
-  "network": "espuma",
-  "rpc": [
-	"https://api.ecoball.org/espuma/"
-  ],
+  "rpc": ["https://api.ecoball.org/espuma/"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Espuma Coin",
@@ -15,9 +12,11 @@
   "shortName": "esp",
   "chainId": 2101,
   "networkId": 2101,
-  "explorers": [{
-    "name": "Ecoball Testnet Explorer",
-    "url": "https://espuma-scan.ecoball.org/",
-    "standard": "EIP3091"
-  }]
+  "explorers": [
+    {
+      "name": "Ecoball Testnet Explorer",
+      "url": "https://espuma-scan.ecoball.org",
+      "standard": "EIP3091"
+    }
+  ]
 }
